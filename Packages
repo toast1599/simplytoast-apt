@@ -3,9 +3,9 @@ Version: 0.9.4.3
 Architecture: all
 Maintainer: toast1599
 Filename: pool/main/s/simplytoast_0.9.4.3.deb
-Size: 1002186
-MD5sum: 3aae85217123e2d6de646af0ec6d8e63
-SHA1: 166e86bbfcf5bedf659332f7a229181973457655
-SHA256: c58ed7842546b20ae4269c053cfdebf90a83b72bf804a3c96f52753dc791b0e3
+Size: 1002172
+MD5sum: 6cf422157db43304e6838aacbee7c1c9
+SHA1: b33468fec64354c96042622358b0e3849d309390
+SHA256: 49c6d9b4957895df1a0438ed4ff59667a4f8798d20314be5b0a3f220135444b1
 Description: Startup application manager
 
