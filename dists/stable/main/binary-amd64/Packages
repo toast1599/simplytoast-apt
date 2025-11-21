@@ -1,11 +1,11 @@
 Package: simplytoast
-Version: 0.9.3
+Version: 0.9.4.2
 Architecture: all
 Maintainer: toast1599
-Filename: pool/main/s/simplytoast_0.9.3.deb
-Size: 1002886
-MD5sum: cbec46f2e3a756d8161fd047109e333e
-SHA1: 28f3e1ddb1a750c87b88a0d7d84cec24bdc03730
-SHA256: da8705c0947fd9f20f3a9e16cab5b0efaf07023928dc563b72bb4e36bd9ba891
+Filename: pool/main/s/simplytoast_0.9.4.2.deb
+Size: 1003390
+MD5sum: db323906810236a6d03bf30f767b22c3
+SHA1: 9836ebd908733f7a6e5b59a56a94e42e6481e443
+SHA256: ccf6b28ace601cc09d911054ac4aa39549954f6a47fee8e7d6b9f38092f865a2
 Description: Startup application manager
 
